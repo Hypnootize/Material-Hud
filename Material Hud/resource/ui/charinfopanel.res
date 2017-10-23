@@ -144,6 +144,7 @@
 		"tabwidth"		"240"
 		"tabheight"		"34"
 		"transition_time" "0"
+		"yoffset"	"7"
 		
 		"HeaderLine"
 		{
@@ -164,7 +165,7 @@
 		{
 			"ypos"				"0"
 			"textinsetx"		"0"
-			"textinsety"		"10"
+			"textinsety"		"18"
 			"font"				"MaterialHeadline"
 			"selectedcolor"		"MaterialTextIcons"
 			"unselectedcolor"	"MaterialDivider"	
@@ -180,7 +181,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
 		"xpos"			"r24"
-		"ypos"			"0"
+		"ypos"			"20"
 		"zpos"			"2"
 		"wide"			"24"
 		"tall"			"25"
@@ -212,7 +213,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
 		"xpos"			"r-24"
-		"ypos"			"0"
+		"ypos"			"20"
 		"zpos"			"2"
 		"wide"			"24"
 		"tall"			"25"

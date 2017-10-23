@@ -1706,7 +1706,7 @@
 		"textAlignment"		"center"
 
 		"defaultFgColor_override" 	"MaterialTextIcons"
-		"armedFgColor_override" 	"MaterialAccent"
+		"armedFgColor_override" 	"EvolvePink"
 		"depressedFgColor_override" "MaterialTextIcons"
 
 		"defaultBgColor_override" 	"0 0 0 0"
@@ -1761,7 +1761,7 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"MyBPButton"
-		"xpos"				"c-30"
+		"xpos"				"c-60"
 		"ypos"				"377"
 		"zpos"				"6"
 		"wide"				"60"
@@ -1774,7 +1774,7 @@
 		"textAlignment"		"center"
 
 		"defaultFgColor_override" 	"MaterialTextIcons"
-		"armedFgColor_override" 	"MaterialAccent"
+		"armedFgColor_override" 	"EvolvePink"
 		"depressedFgColor_override" "MaterialTextIcons"
 
 		"defaultBgColor_override" 	"0 0 0 0"
@@ -1830,7 +1830,7 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"MyTradeButton"
-		"xpos"				"c70"
+		"xpos"				"c10"
 		"ypos"				"377"
 		"zpos"				"6"
 		"wide"				"60"
@@ -1843,7 +1843,33 @@
 		"textAlignment"		"center"
 
 		"defaultFgColor_override" 	"MaterialTextIcons"
-		"armedFgColor_override" 	"MaterialAccent"
+		"armedFgColor_override" 	"EvolvePink"
+		"depressedFgColor_override" "MaterialTextIcons"
+
+		"defaultBgColor_override" 	"0 0 0 0"
+		"armedBgColor_override" 	"0 0 0 0"
+		"depressedBgColor_override" "0 0 0 0"
+	}
+	
+	"MyPaintsButton"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"MyPaintsButton"
+		"xpos"				"c80"
+		"ypos"				"377"
+		"zpos"				"6"
+		"wide"				"60"
+		"tall"				"30"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"F"
+		"textinsety"		"-9"
+		"font"				"Entypo26"
+		"command"			"paintkit_preview"
+		"textAlignment"		"center"
+
+		"defaultFgColor_override" 	"MaterialTextIcons"
+		"armedFgColor_override" 	"EvolvePink"
 		"depressedFgColor_override" "MaterialTextIcons"
 
 		"defaultBgColor_override" 	"0 0 0 0"
@@ -3275,5 +3301,18 @@
 		"tall"				"400"
 		"zpos"				"500"
 		"visible"			"1"
+	}
+	
+	"InspectionPanel"
+	{
+		"fieldName"		"InspectionPanel"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
+		"zpos"			"2000"
+		"wide"			"f0"
+		"tall"			"f100"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"bgcolor_override"	"30 25 25 245"
 	}
 }

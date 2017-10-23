@@ -47,6 +47,17 @@ Scheme
 
 	Fonts
 	{
+		
+		"Entypo26"
+        {
+            "1"
+            {
+                "name"            "Entypo"
+                "tall"        "26"
+                "additive"    "0"
+                "antialias"     "1"
+            }
+        }
 		"IconAlt12"
 		{
 			"1"
@@ -162,5 +173,10 @@ Scheme
 			"font"	"resource/fonts/crosshairs.ttf"
 			"name"	"Crosshairs Regular"
 		}
+		"16"
+        {
+            "font" "resource/fonts/Entypo.otf"
+            "name" "Entypo"
+        }
 	}
 }
