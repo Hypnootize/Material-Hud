@@ -12,33 +12,34 @@
 		"enabled"	"1"
 	}
 
-	"MainBackground2"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"MainBackground2"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"f0"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/material"
-		"scaleImage"		"1"
-	}	
-
 	"MainBackground"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"999999"
-		"ypos"			"0"
+		"xpos"			"0"
+		"ypos"			"-99"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			""
 		"scaleImage"		"1"
 	}	
+	
+	"Background_custom"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Background_Custom"
+		"xpox"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/Loading_Custom"
+		"scaleImage"	"1"
+	}		
 
 	"MapInfo"
 	{
@@ -46,8 +47,8 @@
 		"fieldName"	"MapInfo"
 		"xpos"		"0"
 		"ypos"		"0"
-		"wide"		"f0"
-		"tall"		"480"
+		"wide"		"0"
+		"tall"		"0"
 		"visible"	"0"
 		"enabled"	"1"
 		"bgcolor_override"	"46 43 42 255"
@@ -259,7 +260,7 @@
 		"fieldName"	"StatData"
 		"xpos"		"0"
 		"ypos"		"0"
-		"zpos"		"1"
+		"zpos"		"2"
 		"wide"		"f0"
 		"tall"		"480"
 		"visible"	"1"
