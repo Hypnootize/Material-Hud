@@ -147,3 +147,17 @@ event HudTournamentSetupPanelClose
 {
 	Animate HudTournamentSetup	Alpha	"0"		Accel 0.0 0.2
 }
+
+//===========================================
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+event CompetitiveGame_RestoreChatWindow
+{
+}
+event HudTournament_MoveChatWindow
+{
+}
+
+//===========================================
