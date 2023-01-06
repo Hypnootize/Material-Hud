@@ -776,6 +776,7 @@
 			"wide"			"190"
 			"tall"			"12"
 			"zpos"			"3"
+			"textAlignment"		"center"
 		}
 
 		if_competitive

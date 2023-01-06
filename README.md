@@ -1,12 +1,7 @@
 # Material-Hud
-Screenshots: https://imgur.com/a/pN8KT
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/pN8KT)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 239
-
-hud_combattext_green 83
-
-hud_combattext_blue 80
+![](https://i.imgur.com/OQGrxXP.jpg)
