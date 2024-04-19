@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"settitlebarvisible"	"0"
+		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"				"0 0 0 0"
 		"infocus_bgcolor_override"		"46 43 42 0"
@@ -144,7 +144,7 @@
 		"tabwidth"		"240"
 		"tabheight"		"34"
 		"transition_time" "0"
-		"yoffset"	"7"
+		"yoffset"	"9"
 		
 		"HeaderLine"
 		{
@@ -181,7 +181,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
 		"xpos"			"r24"
-		"ypos"			"20"
+		"ypos"			"24"
 		"zpos"			"2"
 		"wide"			"24"
 		"tall"			"25"

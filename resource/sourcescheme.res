@@ -49,15 +49,15 @@ Scheme
                 "Orange"                        "255 155 0 255"
                 "TransparentBlack"      "40 40 40 255"
                 "Black"                         "40 40 40 255"
- 
+
                 "Blank"                         "0 0 0 0"
-               
+
                 "SteamLightGreen"       "157 194 80 255"
                 "AchievementsLightGrey"         "40 40 40 255"
                 "AchievementsDarkGrey"          "35 35 35 255"
                 "AchievementsInactiveFG"        "90 90 90 255"
         }
- 
+
         ///////////////////// BASE SETTINGS ////////////////////////
         //
         // default settings for all panels
@@ -70,7 +70,7 @@ Scheme
                 Border.Selection                                "231 231 231 0"                     // the additional border color for displaying the default/selected button
                 Border.DarkSolid                                "231 231 231 0"
                 Border.Subtle                                   "40 40 40 255"
- 
+
                 Button.TextColor                                "white"
                 Button.BgColor                                  "MaterialTextPrimary"
                 Button.ArmedTextColor                            "MaterialAccent"
@@ -78,9 +78,9 @@ Scheme
                 Button.DepressedTextColor               "White"
                 Button.DepressedBgColor                 "MaterialTextPrimary"
                 Button.FocusBorderColor                 "82 82 82 0"
- 
+
                 CheckButton.TextColor                   "White"
-                CheckButton.SelectedTextColor   "White"   
+                CheckButton.SelectedTextColor   "White"
                 CheckButton.BgColor                             "MaterialTextPrimary"
                 CheckButton.Border1                     "Border.Subtle"                 // the left checkbutton border
                 CheckButton.Border2                     "Border.Subtle"         // the right checkbutton border
@@ -89,12 +89,12 @@ Scheme
                 CheckButton.ArmedBgColor                "Blank"
                 CheckButton.DepressedBgColor    "Blank"
                 CheckButton.DisabledBgColor             "153 153 153 0"
-                               
+
                 ComboBoxButton.ArrowColor               "81 81 81 255"
                 ComboBoxButton.ArmedArrowColor  "30 30 30 255"
                 ComboBoxButton.BgColor                  "Blank"
                 ComboBoxButton.DisabledBgColor  "Blank"
- 
+
                 Frame.TitleTextInsetX                   16
                 Frame.ClientInsetX                              8
                 Frame.ClientInsetY                              6
@@ -119,10 +119,10 @@ Scheme
                 FrameTitleBar.BgColor                   "blank"
                 FrameTitleBar.DisabledTextColor "255 255 255 91"
                 FrameTitleBar.DisabledBgColor   "Blank"
- 
+
                 GraphPanel.FgColor                              "White"
                 GraphPanel.BgColor                              "TransparentBlack"
- 
+
                 Label.TextDullColor                             "DullWhite"
                 Label.TextColor                                 "MaterialTextSecondary"
                 Label.TextBrightColor                   "White"
@@ -130,7 +130,7 @@ Scheme
                 Label.BgColor                                   "Blank"
                 Label.DisabledFgColor1                  "110 110 110 255"
                 Label.DisabledFgColor2                  "50 50 50 255"
- 
+
                 ListPanel.TextColor                                     "MaterialTextSecondary"
                 ListPanel.TextBgColor                           "Blank"
                 ListPanel.BgColor                                       "MaterialTextPrimary"
@@ -139,45 +139,45 @@ Scheme
                 ListPanel.OutOfFocusSelectedTextColor   "MaterialTextPrimary"
                 ListPanel.SelectedOutOfFocusBgColor     "MaterialAccentDark"
                 ListPanel.EmptyListInfoTextColor        "MaterialTextPrimary"
- 
+
                 Menu.TextColor                                  "MaterialTextSecondary"
                 Menu.BgColor                                     "MaterialTextPrimary"
                 Menu.ArmedTextColor                             "White"
                 Menu.ArmedBgColor                               "MaterialAccent"
                 Menu.TextInset                                  "6"
- 
+
                 Panel.FgColor                                   "MaterialTextSecondary"
                 Panel.BgColor                                   "0 0 0 0"
- 
+
                 ProgressBar.FgColor                             "MaterialTextPrimary"
                 ProgressBar.BgColor                             "white"
- 
+
                 PropertySheet.TextColor                 "white"
                 PropertySheet.SelectedTextColor "MaterialAccent"
                 PropertySheet.SelectedBgColor   "white"
                 PropertySheet.TransitionEffectTime      "0.0"  // time to change from one tab to another
                 PropertySheet.BgColor "0 0 0 255"
- 
+
                 RadioButton.TextColor                   "MaterialTextIcons"
                 RadioButton.SelectedTextColor           "MaterialAccent"
- 
+
                 RichText.TextColor                              "MaterialTextIcons"
                 RichText.BgColor                                 "MaterialTextPrimary"
                 RichText.SelectedTextColor              "MaterialTextSecondary"
                 RichText.SelectedBgColor                "MaterialAccent"
- 
+
                 ScrollBar.Wide                                  12
- 
+
                 ScrollBarButton.FgColor                         "60 60 60 255"
                 ScrollBarButton.BgColor                         "207 207 207 255"
                 ScrollBarButton.ArmedFgColor            "53 53 53 255"
                 ScrollBarButton.ArmedBgColor            "180 180 180 255"
                 ScrollBarButton.DepressedFgColor        "47 47 47 255"
                 ScrollBarButton.DepressedBgColor        "120 120 120 255"
- 
+
                 ScrollBarSlider.FgColor                         "220 220 220 255"                       // nob color
                 ScrollBarSlider.BgColor                         "184 184 184 0"       // slider background color
- 
+
                 SectionedListPanel.HeaderTextColor      "MaterialTextPrimary"
                 SectionedListPanel.HeaderBgColor        "white"
                 SectionedListPanel.DividerColor         "0 0 0 150"
@@ -188,13 +188,13 @@ Scheme
                 SectionedListPanel.SelectedBgColor                              "MaterialAccent"
                 SectionedListPanel.OutOfFocusSelectedTextColor  "MaterialTextPrimary"
                 SectionedListPanel.OutOfFocusSelectedBgColor    "MaterialAccentDark"
- 
+
                 Slider.NobColor                         "220 220 220 255"
                 Slider.TextColor                        "180 180 180 255"
                 Slider.TrackColor                       "184 184 184 229"
                 Slider.DisabledTextColor1       "80 80 80 255"
                 Slider.DisabledTextColor2       "50 50 50 255"
- 
+
                 TextEntry.TextColor                     "MaterialTextIcons"
                 TextEntry.BgColor                        "MaterialTextPrimary"
                 TextEntry.CursorColor           "dullwhite"
@@ -204,16 +204,16 @@ Scheme
                 TextEntry.SelectedBgColor       "MaterialAccent"
                 TextEntry.OutOfFocusSelectedBgColor     "MaterialAccentDark"
                 TextEntry.FocusEdgeColor        "0 0 0 196"
- 
+
                 ToggleButton.SelectedTextColor  "White"
- 
+
                 Tooltip.TextColor                       "MaterialTextPrimary"
                 Tooltip.BgColor                         "249 238 181 255"
- 
+
                 TreeView.BgColor                        "TransparentBlack"
- 
+
                 WizardSubPanel.BgColor          "Blank"
- 
+
                 // scheme-specific colors
                 MainMenu.TextColor                      "white"                         [$WIN32]
                 MainMenu.TextColor                      "200 200 200 255"       [$X360]
@@ -225,27 +225,27 @@ Scheme
                 MainMenu.MenuItemHeight_hidef   "12"                            [$X360]
                 MainMenu.Inset                          "32"
                 MainMenu.Backdrop                       "0 0 0 156"
- 
+
                 Console.TextColor                       "OffWhite"
                 Console.DevTextColor            "White"
- 
+
                 NewGame.TextColor                       "White"
                 NewGame.FillColor                       "0 0 0 255"
                 NewGame.SelectionColor          "Orange"                        [$WIN32]
                 NewGame.SelectionColor          "0 0 0 255"                     [$X360]
                 NewGame.DisabledColor           "128 128 128 196"
- 
+
                 MessageDialog.MatchmakingBG                     "40 40 40 255"  [$X360]
                 MessageDialog.MatchmakingBGBlack                        "22 22 22 255"  [$X360]
-               
-               
+
+
                 MatchmakingMenuItemTitleColor                   "200 184 151 255"       [$X360]
                 MatchmakingMenuItemDescriptionColor             "200 184 151 255"       [$X360]
- 
+
                 "QuickListBGDeselected"         "0 0 0 0"
                 "QuickListBGSelected"           "32 32 32 100"
         }
- 
+
         //////////////////////// BITMAP FONT FILES /////////////////////////////
         //
         // Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
@@ -254,7 +254,7 @@ Scheme
                 // UI buttons, custom font, (256x64)
                 "Buttons"               "materials/vgui/fonts/buttons_32.vbf"
         }
- 
+
         //////////////////////// FONTS /////////////////////////////
         //
         // describes all the fonts
@@ -363,7 +363,7 @@ Scheme
                                 "antialias"        "1"
                         }
                 }
- 
+
                 "DefaultLarge"
                 {
                         "1"
@@ -450,7 +450,7 @@ Scheme
                                 "outline" "1"
                         }
                 }
-               
+
                 "AchievementTitleFontSmaller"
                 {
                         "1"
@@ -462,8 +462,8 @@ Scheme
                                 //"outline" "1"
                         }
                 }
-               
-               
+
+
                 "AchievementDescriptionFont"
                 {
                         "1"
@@ -485,7 +485,7 @@ Scheme
                                 "yres"   "481 10000"
                         }
                 }
-               
+
                 GameUIButtons
                 {
                         "1"     [$X360]
@@ -513,7 +513,7 @@ Scheme
                                 "antialias"     "1"
                         }
                 }
- 
+
                 // this is the symbol font
                 "Marlett"
                 {
@@ -525,7 +525,7 @@ Scheme
                                 "symbol"        "1"
                         }
                 }
- 
+
                 "Trebuchet24"
                 {
                         "1"
@@ -535,7 +535,7 @@ Scheme
                                 "weight"        "900"
                         }
                 }
- 
+
                 "Trebuchet20"
                 {
                         "1"
@@ -545,7 +545,7 @@ Scheme
                                 "weight"        "900"
                         }
                 }
- 
+
                 "Trebuchet18"
                 {
                         "1"
@@ -555,7 +555,7 @@ Scheme
                                 "weight"        "900"
                         }
                 }
- 
+
                 // HUD numbers
                 // We use multiple fonts to 'pulse' them in the HUD, hence the need for many of near size
                 "HUDNumber"
@@ -630,7 +630,7 @@ Scheme
 //                              "weight"        "0"
 //                      }
                 }
- 
+
                 "DefaultFixedDropShadow"
                 {
                         "1"
@@ -652,7 +652,7 @@ Scheme
 //                              "weight"        "0"
 //                      }
                 }
- 
+
                 "CloseCaption_Normal"
                 {
                         "1"
@@ -695,7 +695,7 @@ Scheme
                                 "italic"        "1"
                         }
                 }
- 
+
                 TitleFont
                 {
                         "1"
@@ -707,7 +707,7 @@ Scheme
                                 "custom"        "1"
                         }
                 }
- 
+
                 TitleFont2
                 {
                         "1"
@@ -719,7 +719,7 @@ Scheme
                                 "custom"        "1"
                         }
                 }
- 
+
                 AppchooserGameTitleFont [$X360]
                 {
                         "1"
@@ -731,7 +731,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
- 
+
                 AppchooserGameTitleFontBlur     [$X360]
                 {
                         "1"
@@ -745,7 +745,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
-               
+
                 StatsTitle      [$WIN32]
                 {
                         "1"
@@ -757,7 +757,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
-               
+
                 StatsText       [$WIN32]
                 {
                         "1"
@@ -769,7 +769,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
-               
+
                 AchievementItemTitle    [$WIN32]
                 {
                         "1"
@@ -782,7 +782,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
- 
+
                 AchievementItemDate     [$WIN32]
                 {
                         "1"
@@ -794,8 +794,8 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
- 
-               
+
+
                 StatsPageText
                 {
                         "1"
@@ -808,7 +808,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
-               
+
                 AchievementItemTitleLarge       [$WIN32]
                 {
                         "1"
@@ -821,7 +821,7 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
-               
+
                 AchievementItemDescription      [$WIN32]
                 {
                         "1"
@@ -834,8 +834,8 @@ Scheme
                                 "antialias"             "1"
                         }
                 }
- 
-               
+
+
                 "ServerBrowserTitle"
                 {
                         "1"
@@ -845,7 +845,7 @@ Scheme
                                 "antialias" "1"
                         }
                 }
- 
+
                 "ServerBrowserSmall"
                 {
                         "1"
@@ -892,9 +892,9 @@ Scheme
                                 "antialias"     "1"
                         }
                 }
-       
+
         }
- 
+
         //
         //////////////////// BORDERS //////////////////////////////
         //
@@ -907,47 +907,47 @@ Scheme
                 MenuBorder              SubtleBorder
                 BrowserBorder           DepressedBorder
                 PropertySheetBorder     RaisedBorder
- 
+
                 FrameBorder
                 {
                         "bordertype"                    "scalable_image"
                         "backgroundtype"                "2"
                         "color"                                 "MaterialTextPrimary"
-                        
+
                         "image"                                 "replay/thumbnails/materialPanel"
                         "src_corner_height"     "23"                            // pixels inside the image
                         "src_corner_width"      "23"
-                                
+
                         "draw_corner_width"     "8"                             // screen size of the corners ( and sides ), proportional
-                        "draw_corner_height"    "8"     
+                        "draw_corner_height"    "8"
                 }
- 
+
                 SubtleBorder
                 {
                         "bordertype"                    "scalable_image"
                         "backgroundtype"                "2"
                         "color"                                 "MaterialTextPrimary"
-                        
+
                         "image"                                 "replay/thumbnails/materialPanel"
                         "src_corner_height"     "23"                            // pixels inside the image
                         "src_corner_width"      "23"
-                                
+
                         "draw_corner_width"     "8"                             // screen size of the corners ( and sides ), proportional
-                        "draw_corner_height"    "8"     
+                        "draw_corner_height"    "8"
                 }
- 
+
                 DepressedBorder
                 {
                         "bordertype"                    "scalable_image"
                         "backgroundtype"                "2"
                         "color"                                 "MaterialTextPrimary"
-                        
+
                         "image"                                 "replay/thumbnails/materialPanel"
                         "src_corner_height"     "23"                            // pixels inside the image
                         "src_corner_width"      "23"
-                                
+
                         "draw_corner_width"     "8"                             // screen size of the corners ( and sides ), proportional
-                        "draw_corner_height"    "8"     
+                        "draw_corner_height"    "8"
                 }
                 }
                 RaisedBorder
@@ -955,30 +955,30 @@ Scheme
                        "bordertype"                    "scalable_image"
                         "backgroundtype"                "2"
                         "color"                                 "MaterialTextPrimary"
-                        
+
                         "image"                                 "replay/thumbnails/materialPanel"
                         "src_corner_height"     "23"                            // pixels inside the image
                         "src_corner_width"      "23"
-                                
+
                         "draw_corner_width"     "8"                             // screen size of the corners ( and sides ), proportional
-                        "draw_corner_height"    "8"     
+                        "draw_corner_height"    "8"
                 }
-               
+
                 TitleButtonBorder
                 {
                         "backgroundtype" "0"
                 }
- 
+
                 TitleButtonDisabledBorder
                 {
                         "backgroundtype" "0"
                 }
- 
+
                 TitleButtonDepressedBorder
                 {
                         "backgroundtype" "0"
                 }
- 
+
                 ScrollBarButtonBorder
                 {
                         "inset" "0 0 0 0" [!$OSX]
@@ -991,7 +991,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Right
                         {
                                 "1"
@@ -1000,7 +1000,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Top
                         {
                                 "1"
@@ -1009,7 +1009,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Bottom
                         {
                                 "1"
@@ -1019,7 +1019,7 @@ Scheme
                                 }
                         }
                 }
-               
+
                 ScrollBarButtonDepressedBorder
                 {
                         "inset" "0 0 0 0" [!$OSX]
@@ -1032,7 +1032,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Right
                         {
                                 "1"
@@ -1041,7 +1041,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Top
                         {
                                 "1"
@@ -1050,7 +1050,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Bottom
                         {
                                 "1"
@@ -1060,23 +1060,23 @@ Scheme
                                 }
                         }
                 }
- 
+
                 TabBorder
                 {
                         "inset" "1 1 1 1"
- 
+
                         render
                         {
                                 "0" "fill( x0, y0, x1, y1, Black )"
                         }
- 
+
                         render_bg
                         {
                                 "0" "fill( x0, y0, x1, y1, Orange )"
                         }
- 
+
                 }
- 
+
                 TabActiveBorder
                 {
                         "inset" "1 1 1 1"
@@ -1088,7 +1088,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Top
                         {
                                 "1"
@@ -1097,7 +1097,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Right
                         {
                                 "1"
@@ -1106,10 +1106,10 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                 }
- 
- 
+
+
                 ToolTipBorder
                 {
                         "inset" "0 0 1 0"
@@ -1121,7 +1121,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Right
                         {
                                 "1"
@@ -1130,7 +1130,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Top
                         {
                                 "1"
@@ -1139,7 +1139,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Bottom
                         {
                                 "1"
@@ -1149,7 +1149,7 @@ Scheme
                                 }
                         }
                 }
- 
+
                 // this is the border used for default buttons (the button that gets pressed when you hit enter)
                 ButtonKeyFocusBorder
                 {
@@ -1187,7 +1187,7 @@ Scheme
                                 }
                         }
                 }
- 
+
                 ButtonDepressedBorder
                 {
                         "inset" "0 0 0 0"
@@ -1199,7 +1199,7 @@ Scheme
                                         "offset" "0 1"
                                 }
                         }
- 
+
                         Right
                         {
                                 "1"
@@ -1208,7 +1208,7 @@ Scheme
                                         "offset" "1 0"
                                 }
                         }
- 
+
                         Top
                         {
                                 "1"
@@ -1217,7 +1217,7 @@ Scheme
                                         "offset" "0 0"
                                 }
                         }
- 
+
                         Bottom
                         {
                                 "1"
@@ -1228,29 +1228,28 @@ Scheme
                         }
                 }
         }
- 
+
         //////////////////////// CUSTOM FONT FILES /////////////////////////////
         //
         // specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
         CustomFontFiles
         {
                 "1"             "resource/HALFLIFE2.ttf"
-                "2"             "resource/HL2EP2.ttf"  
+                "2"             "resource/HL2EP2.ttf"
                 "3"             "resource/marlett.ttf"
-                "4"             
+                "4"
                 {
                         "font"  "resource/fonts/Roboto-Bold-Caps.ttf"
                         "name"  "Roboto Bold Caps"
                 }
-                "5"             
+                "5"
                 {
                         "font"  "resource/fonts/Roboto-Regular.ttf"
                         "name"  "Roboto Regular"
                 }
-                "6"             
+                "6"
                 {
                         "font"  "resource/fonts/RobotoMono-Regular.ttf"
                         "name"  "Roboto Mono"
                 }
         }
-}
